@@ -48,7 +48,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/__JohnBruno
-  - icon: githubßß
+  - icon: github
     icon_pack: fab
     link: https://github.com/John-bruno
   - icon: linkedin
