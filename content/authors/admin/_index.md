@@ -48,10 +48,10 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/__JohnBruno
-  - icon: github
+  - icon: githubßß
     icon_pack: fab
     link: https://github.com/John-bruno
-    icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/john-bruno-b32b9116b/
 
