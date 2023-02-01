@@ -50,7 +50,7 @@ social:
     link: https://twitter.com/__JohnBruno
   - icon: github
     icon_pack: fab
-    ink: https://github.com/John-bruno
+    link: https://github.com/John-bruno
     icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/john-bruno-b32b9116b/
