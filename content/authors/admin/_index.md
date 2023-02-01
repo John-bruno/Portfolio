@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: John Bruno
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,14 +47,13 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/__JohnBruno
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    ink: https://github.com/John-bruno
+    icon: linkedin
+    icon_pack: fab
+    ink: https://www.linkedin.com/in/john-bruno-b32b9116b/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +65,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a dedicated and highly skilled technical writer with a passion for creating clear, concise, and engaging technical content. With 5+ years of experience in the field, I have a proven track record of delivering high-quality technical documentation that meets the needs of diverse audiences. I have the expertise and drive to help organizations communicate their technical information effectively, whether it’s software and hardware documentation, user manuals, or white papers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I am able to effectively translate complex technical information into easily understandable language. Whether working on software manuals, user guides, or online help systems, I always strive to deliver high-quality, accurate, and accessible content. My goal is to make technology more accessible and user-friendly for everyone.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
