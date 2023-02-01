@@ -53,7 +53,7 @@ social:
     ink: https://github.com/John-bruno
     icon: linkedin
     icon_pack: fab
-    ink: https://www.linkedin.com/in/john-bruno-b32b9116b/
+    link: https://www.linkedin.com/in/john-bruno-b32b9116b/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
