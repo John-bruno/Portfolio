@@ -46,7 +46,7 @@ experience:
     date_end: '2022-12-11'
     description: 
 
-        * • Strengthened content of technical proposals, company manuals, employee forms, and contract deliverables in collaboration with marketing and operations departments
+        *  Strengthened content of technical proposals, company manuals, employee forms, and contract deliverables in collaboration with marketing and operations departments
         * Created high-quality, relevant user content, such as conceptual summaries, task-based tasks, best practices, APIs, technical reference materials, and knowledge-base articles
         * Directly contributed to API documentation using the software version control system Git
         * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
