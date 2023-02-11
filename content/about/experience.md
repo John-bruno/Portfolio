@@ -44,7 +44,7 @@ experience:
     location: Remote
     date_start: '2022-01-03'
     date_end: '2022-12-11'
-    description: 
+    description:
         *  Strengthened content of technical proposals, company manuals, employee forms, and contract deliverables in collaboration with marketing and operations departments
         * Created high-quality, relevant user content, such as conceptual summaries, task-based tasks, best practices, APIs, technical reference materials, and knowledge-base articles
         * Directly contributed to API documentation using the software version control system Git
