@@ -178,13 +178,23 @@ params:
         companyUrl: "https://www.shijigroup.com/brands/shiji-payment-solutions"
         date: "April 2023 - present"
         featuredLink:
-        enable: true
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          enable: true
+          name: "View the project"
+          url: "https://example.com"
+        content: "I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [Shiji Payment Solutions](https://www.shijigroup.com/brands/shiji-payment-solutions), working alongside engineering teams to facilitate seamless releases."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+          - Managed API documentation with OpenAPI and Swagger, creating detailed YAML specifications; ensured accuracy and accessibility, enhancing clarity and integration.
+          - Collaborated with engineering and QA on documentation and release strategies, contributing to seamless product releases.
+          - Implemented Agile methodologies, aligned with monthly sprints, to deliver high-quality documentation promptly.
+          - Developed comprehensive documentation, including internal guides, user-facing how-tos, and release notes, improving user satisfaction and usability.
+
+    
+  
+
+      - job: "Technical Writer"
+        company: "Boomi"
+        companyUrl: "https://boomi.com/"
+        date: "May 2023 - Dec 2023"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -192,7 +202,7 @@ params:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [example org.](https://example.com), working alongside engineering teams to facilitate seamless releases.".
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
