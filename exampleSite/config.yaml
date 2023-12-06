@@ -181,7 +181,8 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [Shiji Payment Solutions](https://www.shijigroup.com/brands/shiji-payment-solutions), working alongside engineering teams to facilitate seamless releases."
+        content: |
+          "I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [Shiji Payment Solutions](https://www.shijigroup.com/brands/shiji-payment-solutions), working alongside engineering teams to facilitate seamless releases."
 
           - Managed API documentation with OpenAPI and Swagger, creating detailed YAML specifications; ensured accuracy and accessibility, enhancing clarity and integration.
           - Collaborated with engineering and QA on documentation and release strategies, contributing to seamless product releases.
