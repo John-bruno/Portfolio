@@ -160,6 +160,7 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+      
         - "API Development"
         - "XML and DITA XML Proficiency"
         - "OpenAPI and Swagger"
@@ -168,8 +169,8 @@ params:
         - "Jira and Confluence"
         - "Scripting and Automation (including Bash Scripting)"
         - "Agile Methodologies"
-        - "Adaptability"
-        - "Collaboration"
+        - 
+        
 
   # Experience
   experience:
