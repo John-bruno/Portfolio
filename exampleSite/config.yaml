@@ -205,12 +205,12 @@ params:
           enable: true
         content: |
 
-       - Designed and implemented a custom Bash script to automate the conversion of 5,000 DITA XML files to Markdown, enhancing process efficiency and consistency.
-       - Utilized the script to streamline conversion processes in line with "docs as code" practices, reducing manual efforts.
-       - Led a technical writing team in a major documentation project, managing version control and collaboration with Git.
-       - Authored and maintained user guides and internal resources in Markdown, enhancing clarity and user engagement.
-       - Integrated Docusaurus and Netlify for documentation deployment, optimizing accessibility and user experience.
-       - Conducted Markdown training, improving team proficiency and documentation effectiveness.
+         - Designed and implemented a custom Bash script to automate the conversion of 5,000 DITA XML files to Markdown, enhancing process efficiency and consistency.
+         - Utilized the script to streamline conversion processes in line with "docs as code" practices, reducing manual efforts.
+         - Led a technical writing team in a major documentation project, managing version control and collaboration with Git.
+         - Authored and maintained user guides and internal resources in Markdown, enhancing clarity and user engagement.
+         - Integrated Docusaurus and Netlify for documentation deployment, optimizing accessibility and user experience.
+         - Conducted Markdown training, improving team proficiency and documentation effectiveness.
       
 
 
