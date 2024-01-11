@@ -144,7 +144,7 @@ params:
         - icon: fab fa-medium
           url: https://medium.com/@johnbruno1260
       customIcons:
-        - icon: fab fa-linkedin-in
+        - icon: fa-brands fa-linkedin
           url: "www.linkedin.com/in/john-bruno-b32b9116b"
 
   # About
@@ -160,22 +160,14 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items: |
-
-        - "API Development"
-
         - "XML and DITA XML Proficiency"
-
         - "OpenAPI and Swagger"
-
         - "Markdown"
-
         - "Git Proficiency"
-
         - "Jira and Confluence"
-
         - "Scripting and Automation (including Bash Scripting)"
-
         - "Agile Methodologies"
+        - "API Development"
         
         
 
@@ -202,7 +194,7 @@ params:
     
   
 
-      - job: "Technical Writer"
+      - job: "Contract Senior Technical Writer"
         company: "Boomi"
         companyUrl: "https://boomi.com/"
         date: "May 2023 - Dec 2023"
@@ -211,12 +203,16 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [example org.](https://example.com), working alongside engineering teams to facilitate seamless releases.".
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+       - Designed and implemented a custom Bash script to automate the conversion of 5,000 DITA XML files to Markdown, enhancing process efficiency and consistency.
+       - Utilized the script to streamline conversion processes in line with "docs as code" practices, reducing manual efforts.
+       - Led a technical writing team in a major documentation project, managing version control and collaboration with Git.
+       - Authored and maintained user guides and internal resources in Markdown, enhancing clarity and user engagement.
+       - Integrated Docusaurus and Netlify for documentation deployment, optimizing accessibility and user experience.
+       - Conducted Markdown training, improving team proficiency and documentation effectiveness.
+      
+
 
       - job: "Junior Software Developer"
         company: "Apple"
