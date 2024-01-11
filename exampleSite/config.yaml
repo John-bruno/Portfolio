@@ -192,8 +192,9 @@ params:
           - Developed comprehensive documentation, including internal guides, user-facing how-tos, and release notes, improving user satisfaction and usability.
 
     
+  
 
-      - job: "Contract Senior Technical Writer"
+      - job: "Technical Writer"
         company: "Boomi"
         companyUrl: "https://boomi.com/"
         date: "May 2023 - Dec 2023"
@@ -202,16 +203,12 @@ params:
           url: "https://example.com"
         info:
           enable: true
+          content: I worked as a software developer for more than one year in Amazon.
         content: |
+          I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [example org.](https://example.com), working alongside engineering teams to facilitate seamless releases.".
 
-         - Designed and implemented a custom Bash script to automate the conversion of 5,000 DITA XML files to Markdown, enhancing process efficiency and consistency.
-         - Utilized the script to streamline conversion processes in line with "docs as code" practices, reducing manual efforts.
-         - Led a technical writing team in a major documentation project, managing version control and collaboration with Git.
-         - Authored and maintained user guides and internal resources in Markdown, enhancing clarity and user engagement.
-         - Integrated Docusaurus and Netlify for documentation deployment, optimizing accessibility and user experience.
-         - Conducted Markdown training, improving team proficiency and documentation effectiveness.
-      
-
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
         company: "Apple"
