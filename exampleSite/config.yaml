@@ -159,7 +159,7 @@ params:
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
-      items: |
+      items: 
         - "XML and DITA XML Proficiency"
         - "OpenAPI and Swagger"
         - "Markdown"
