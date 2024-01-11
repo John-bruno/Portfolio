@@ -144,8 +144,8 @@ params:
         - icon: fab fa-medium
           url: https://medium.com/@johnbruno1260
       customIcons:
-        - icon: fa-brands fa-linkedin-in
-          url: "www.linkedin.com/in/john-bruno-b32b9116b"
+        - icon: fab fa-linkedin
+          url: http://linkedin.com/in/john-bruno-b32b9116b
 
   # About
   about:
