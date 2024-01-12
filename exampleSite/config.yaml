@@ -143,7 +143,6 @@ params:
           url: https://example.com
         - icon: fab fa-medium
           url: https://medium.com/@johnbruno1260
-      customIcons:
         - icon: fab fa-linkedin
           url: http://linkedin.com/in/john-bruno-b32b9116b
 
