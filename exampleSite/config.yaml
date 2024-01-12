@@ -143,7 +143,7 @@ params:
           url: https://example.com
         - icon: fab fa-medium
           url: https://medium.com/@johnbruno1260
-        - icon: fab fa-linkedin
+        - icon: fab fa-linkedin-in
           url: http://linkedin.com/in/john-bruno-b32b9116b
 
   # About
@@ -193,7 +193,7 @@ params:
     
   
 
-      - job: "Technical Writer"
+      - job: "Senior Technical Writer Contract"
         company: "Boomi"
         companyUrl: "https://boomi.com/"
         date: "May 2023 - Dec 2023"
@@ -202,46 +202,49 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: 
         content: |
-          I am a Senior Technical Writer, drafting API documentation and release notes to streamline product integration and usability at [example org.](https://example.com), working alongside engineering teams to facilitate seamless releases.".
+         
+           - Designed and implemented a custom Bash script to automate the conversion of 5,000 DITA XML files to Markdown, enhancing process efficiency and consistency.
+           - Utilized the script to streamline conversion processes in line with "docs as code" practices, reducing manual efforts.
+           - Led a technical writing team in a major documentation project, managing version control and collaboration with Git.
+           - Authored and maintained user guides and internal resources in Markdown, enhancing clarity and user engagement.
+           - Integrated Docusaurus and Netlify for documentation deployment, optimizing accessibility and user experience.
+           - Conducted Markdown training, improving team proficiency and documentation effectiveness.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Lead Technical Writer"
+        company: "Tilled"
+        companyUrl: "https://www.tilled.com/"
+        date: "March 2022 - April 2023"
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+           - Served as sole Technical Writer, responsible for all documentation and primary contact for content inquiries and needs.
+           - Developed, maintained, and regularly updated extensive API documentation, providing vital reference for developers and partners.
+           - Crafted detailed release notes using SharePoint to communicate new features, bug fixes, and enhancements to stakeholders and customers.
+           - Implemented structured templates and streamlined workflows to ensure efficient, consistent, and timely documentation updates.
+           - Thrived in a dynamic, startup environment, swiftly adapting to evolving product features and rapidly changing requirements, ensuring all technical documentation remained accurate and up-to-date.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+
+      - job: "Technical Writer"
+        company: "Lockheed Martin"
+        companyUrl: "https://www.lockheedmartin.com/"
+        date: "October 2019 - March 2022"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+         
+          - Observed in-progress operations to identify key steps for technical instructions.
+          - Incorporated updates and corrections into diverse aeronautics manuals. Modified manuals with publishing software expertise and adherence to military specifications.
+          - Conducted proofreading, technical writing, and editing for user manuals, business proposals, white papers, and reports in the aerospace sector.
+          - Collaborated with Development Engineers, Quality Engineers, Product Management, Release Managers, and Co-writers.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      
 
   # Education
   education:
@@ -249,38 +252,21 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Bachelor of Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Baruch College of The City University of New York"
+          url: "https://www.baruch.cuny.edu/"
+        date: "2012 - 2016"
+        GPA: "4.1 out of 5.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+            - Actively participated in the college chess club, honing strategic thinking and problem-solving skills through regular competitions and team events.
+            - Pursued a passion for culinary arts by joining the college's cooking club, enhancing culinary skills and exploring diverse cuisines through collaborative cooking events and competitions.
+      
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
+          name: "Kingsbridge International High School."
+          url: "https://www.schools.nyc.gov/schools/X268"
         GPA: "4.2 out of 5.0"
         featuredLink:
           enable: true
